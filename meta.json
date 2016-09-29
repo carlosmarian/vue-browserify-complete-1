@@ -14,6 +14,11 @@
     "author": {
       "type": "string",
       "label": "Author"
+    },
+    "version": {
+      "type": "string",
+      "label": "Version",
+      "default": "0.0.1"
     }
   }
 }
