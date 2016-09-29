@@ -1,6 +1,6 @@
-# protectname
+# {{name}}
 
-> projectdescription
+> {{description}}
 
 ## Build Setup
 
